@@ -232,7 +232,9 @@ header {
 }
 
 nav ul {
-    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    display: flex;
     padding-left: 0;
     list-style: none;
     padding: 20px;
