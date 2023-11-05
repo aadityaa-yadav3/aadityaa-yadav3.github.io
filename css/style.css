@@ -833,3 +833,15 @@ fieldset {
         font-size: 10px;
     }
 }
+
+#map-responsive iframe {
+    margin-top: -6vw;
+    float: right;
+    height: 25vw;
+    width: 100%;
+    border-radius: 2vw;
+    animation: slide-up-fade-in ease 1s;
+    animation-iteration-count: 1;
+    transform-origin: 50% 50%;
+    animation-fill-mode: forwards;
+  }
