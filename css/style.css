@@ -670,13 +670,13 @@ blockquote cite:before {
 }
 
 #contact-form input,
-#contact-form textarea {
+#contact-form1 textarea {
     height: 50px;
     margin-bottom: 10px;
     border-radius: 0;
 }
 
-#contact-form label {
+#contact-form1 label {
     display: block;
     margin-bottom: .2em;
     font-size: 13px;
@@ -756,7 +756,7 @@ fieldset {
     margin-top: 10px;
 }
 
-#submit {
+#submit1 {
     background-color: #425BB5;
     color: #fff;
     padding: 10px 40px;
